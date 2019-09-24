@@ -14,6 +14,7 @@ Requires:
 - droid-config-stf-flashing
 - droid-config-stf-bluez5
 - droid-hal-version-stf
+- droid-hal-stf-detritus
 
 # Hybris packages
 - libhybris-libEGL
